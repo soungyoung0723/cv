@@ -1,0 +1,157 @@
+
+.blueCloud {
+width:100px;
+height:100px;
+position:relative;
+left: 450px;
+}
+.greyCloud {
+width:100px;
+height:100px;
+position:absolute;
+left:100px;
+}
+
+.tree-icon {
+width:250px;
+height:250px;
+}
+
+.leaves-icon{
+  width:25%;
+  height:25%;
+  background-color: white;
+  border-radius:10px 10px;
+  float: right;
+  margin-left:30px;
+}
+.computer-icon{
+  width:25%;
+  height:25%;
+  background-color: white;
+  border-radius:10px 10px;
+  float: left;
+  margin-right: 30px;
+}
+
+.btn{
+
+  	box-shadow: 0px 0px 6px 2px #3e7327;
+  	background:linear-gradient(to bottom, #77b55a 5%, #72b352 100%);
+  	background-color:#77b55a;
+  	border-radius:8px;
+  	border:1px solid #4b8f29;
+  	display:inline-block;
+  	cursor:pointer;
+  	color:#ffffff;
+  	font-family: 'Ubuntu', serif;
+  	font-size:20px;
+  	padding:9px 17px;
+  	text-decoration:none;
+  	text-shadow:0px 1px 0px #5b8a3c;
+  }
+  .btn:hover {
+  	background:linear-gradient(to bottom, #72b352 5%, #77b55a 100%);
+  	background-color:#72b352;
+  }
+  .btn:active {
+  	position:relative;
+  	top:1px;
+  }
+
+
+
+body{
+  color: #40514E;
+  margin: 0;
+  text-align:center;
+  font-family: 'Baskervville', serif;
+  font-size: 120%;
+}
+
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #217756;
+}
+
+h2{
+  font-size: 2rem;
+  font-weight: normal;
+  font-family: 'Ubuntu', serif;
+  color: #2c7873;
+  padding-bottom: 10px;
+}
+
+h3{
+  font-family: 'Ubuntu', serif;
+  font-size: 1 rem;
+  color: #29a19c;
+}
+
+p{
+  color: #2b2b28;
+  line-height: 2;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a{
+  color: #29a19c;
+  font-family: 'Ubuntu', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+   color: #EAF6F6;
+}
+
+
+.top-container{
+  background-color: #beeb9f;
+  position: relative;
+  padding: 50px 0;
+
+}
+
+.middle-container{
+padding-top: 50px;
+padding-bottom: 50px;
+margin: 100px 0;
+}
+
+.bottom-container{
+  background-color: #beeb9f;
+  padding: 50px 0 20px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+.intro{
+  width: 30%
+  margin: auto;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px ;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.8rem;
+  padding: 20px 0;
+}
+
+.skill-row{
+  width: 50% ;
+  margin: 100px auto 150px auto;
+  text-align: left;
+}
